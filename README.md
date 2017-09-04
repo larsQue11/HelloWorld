@@ -1,2 +1,2 @@
-# Hello-World-Tutorial
+# Hello-World
 Learning Git
